@@ -1,6 +1,7 @@
 package com.cg.onlineshop.beans;
 public class Product {
-	private int id,price;
+	private int id;
+	private int price;
 	private String name;
 	public Product() {}
 	public Product(int id, int price, String name) {

@@ -8,17 +8,17 @@ class OnlineShopAppApplicationTests {
 
 	@Test
 	public void test1() {
-		System.out.println("test1");
+		System.err.println("test1");
 	}
 		
 	@Test
 	public void test2() {
-		System.out.println("test2");
+		System.err.println("test2");
 	}
 	
 	@Test
 	public void test3() {
-		System.out.println("test3");
+		System.err.println("test3");
 	}
 
 }
